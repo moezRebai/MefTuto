@@ -6,12 +6,10 @@ using System.ComponentModel.Composition.Hosting;
 using System.IO;
 using System.Linq;
 using System.Reflection;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace MefExmaples
+namespace MefExmaples.Helpers
 {
-    
+
     public class ExtensionsLoader
     {
         [ImportMany(typeof(IStringManager))]
@@ -19,11 +17,15 @@ namespace MefExmaples
 
         public void ImportPlugins()
         {
+            string exePath = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location);
+            string path = Path.Combine(Directory.GetParent(System.IO.Directory.GetCurrentDirectory()).Parent.Parent.FullName, "Referenced Assemblies");
+             
             var catalog = new AggregateCatalog();
 
             //Ajouter tous les classes ou bien les "parts" dans 
             // les differents assemblies qui se trouve dans le meme dossier d'exectuion.
-            catalog.Catalogs.Add(new DirectoryCatalog(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location)));
+            catalog.Catalogs.Add(new DirectoryCatalog(path));
+            //catalog.Catalogs.Add(new DirectoryCatalog(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location)));
 
             //Creer les contenaire des imports( dependences) CompositionContainer a partir des parties exportés 
             // dans le catalog

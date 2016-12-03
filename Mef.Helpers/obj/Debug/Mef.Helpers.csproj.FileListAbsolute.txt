@@ -1,0 +1,7 @@
+H:\Projects\GitHub\MEF\MefExmaples\Mef.Helpers\bin\Debug\Mef.Helpers.dll
+H:\Projects\GitHub\MEF\MefExmaples\Mef.Helpers\bin\Debug\Mef.Helpers.pdb
+H:\Projects\GitHub\MEF\MefExmaples\Mef.Helpers\bin\Debug\Mef.Contracts.dll
+H:\Projects\GitHub\MEF\MefExmaples\Mef.Helpers\bin\Debug\Mef.Contracts.pdb
+H:\Projects\GitHub\MEF\MefExmaples\Mef.Helpers\obj\Debug\Mef.Helpers.csprojResolveAssemblyReference.cache
+H:\Projects\GitHub\MEF\MefExmaples\Mef.Helpers\obj\Debug\Mef.Helpers.dll
+H:\Projects\GitHub\MEF\MefExmaples\Mef.Helpers\obj\Debug\Mef.Helpers.pdb

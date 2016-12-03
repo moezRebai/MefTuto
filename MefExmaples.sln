@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mef.DataBaseManager", "Mef.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mef.FileManager", "Mef.FileManager\Mef.FileManager.csproj", "{66482A00-56C9-460D-B072-3E5C1181F592}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mef.Helpers", "Mef.Helpers\Mef.Helpers.csproj", "{83439031-E012-4457-8C43-D470B76F8DDB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{66482A00-56C9-460D-B072-3E5C1181F592}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66482A00-56C9-460D-B072-3E5C1181F592}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66482A00-56C9-460D-B072-3E5C1181F592}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83439031-E012-4457-8C43-D470B76F8DDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83439031-E012-4457-8C43-D470B76F8DDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83439031-E012-4457-8C43-D470B76F8DDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83439031-E012-4457-8C43-D470B76F8DDB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

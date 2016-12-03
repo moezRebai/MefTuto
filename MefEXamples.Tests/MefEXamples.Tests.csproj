@@ -51,7 +51,6 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="ExtensionsLoader.cs" />
     <Compile Include="MefPluginsTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -59,6 +58,10 @@
     <ProjectReference Include="..\Mef.Contracts\Mef.Contracts.csproj">
       <Project>{dc79c0e1-6b1b-4e5c-ac6d-1a17339df7b5}</Project>
       <Name>Mef.Contracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Mef.Helpers\Mef.Helpers.csproj">
+      <Project>{83439031-e012-4457-8c43-d470b76f8ddb}</Project>
+      <Name>Mef.Helpers</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MefExmaples.Helpers;
+using System;
 
 namespace MefExmaples
 {

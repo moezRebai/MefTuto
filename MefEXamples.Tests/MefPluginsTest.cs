@@ -2,6 +2,7 @@
 using MefExmaples.Tests;
 using System.Collections.Generic;
 using System.Linq;
+using MefExmaples.Helpers;
 
 namespace MefEXamples.Tests
 {

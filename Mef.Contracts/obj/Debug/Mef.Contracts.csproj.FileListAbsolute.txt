@@ -2,3 +2,8 @@ H:\Training\Dot NET Various\MEF\MefExmaples\Mef.Contracts\bin\Debug\Mef.Contract
 H:\Training\Dot NET Various\MEF\MefExmaples\Mef.Contracts\bin\Debug\Mef.Contracts.pdb
 H:\Training\Dot NET Various\MEF\MefExmaples\Mef.Contracts\obj\Debug\Mef.Contracts.dll
 H:\Training\Dot NET Various\MEF\MefExmaples\Mef.Contracts\obj\Debug\Mef.Contracts.pdb
+H:\Projects\GitHub\MEF\MefExmaples\Mef.Contracts\bin\Debug\Mef.Contracts.dll
+H:\Projects\GitHub\MEF\MefExmaples\Mef.Contracts\bin\Debug\Mef.Contracts.pdb
+H:\Projects\GitHub\MEF\MefExmaples\Mef.Contracts\obj\Debug\Mef.Contracts.csprojResolveAssemblyReference.cache
+H:\Projects\GitHub\MEF\MefExmaples\Mef.Contracts\obj\Debug\Mef.Contracts.dll
+H:\Projects\GitHub\MEF\MefExmaples\Mef.Contracts\obj\Debug\Mef.Contracts.pdb

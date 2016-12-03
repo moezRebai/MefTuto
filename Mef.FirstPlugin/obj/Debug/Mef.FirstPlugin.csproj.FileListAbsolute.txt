@@ -1,0 +1,9 @@
+H:\Training\Dot NET Various\MEF\MefExmaples\Mef.FirstPlugin\bin\Debug\Mef.FirstPlugin.dll
+H:\Training\Dot NET Various\MEF\MefExmaples\Mef.FirstPlugin\bin\Debug\Mef.FirstPlugin.pdb
+H:\Training\Dot NET Various\MEF\MefExmaples\Mef.FirstPlugin\bin\Debug\Mef.Contracts.dll
+H:\Training\Dot NET Various\MEF\MefExmaples\Mef.FirstPlugin\bin\Debug\Mef.Contracts.pdb
+H:\Training\Dot NET Various\MEF\MefExmaples\Mef.FirstPlugin\obj\Debug\Mef.FirstPlugin.csprojResolveAssemblyReference.cache
+H:\Training\Dot NET Various\MEF\MefExmaples\Mef.FirstPlugin\obj\Debug\Mef.FirstPlugin.dll
+H:\Training\Dot NET Various\MEF\MefExmaples\Mef.FirstPlugin\obj\Debug\Mef.FirstPlugin.pdb
+H:\Training\Dot NET Various\MEF\MefExmaples\MefExmaples\bin\Debug\Mef.FirstPlugin.dll
+H:\Training\Dot NET Various\MEF\MefExmaples\MefExmaples\bin\Debug\Mef.FirstPlugin.pdb

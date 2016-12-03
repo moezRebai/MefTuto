@@ -1,0 +1,11 @@
+H:\Training\Dot NET Various\MEF\MefExmaples\MefExmaples\bin\Debug\MefExmaples.exe.config
+H:\Training\Dot NET Various\MEF\MefExmaples\MefExmaples\bin\Debug\MefExmaples.exe
+H:\Training\Dot NET Various\MEF\MefExmaples\MefExmaples\bin\Debug\MefExmaples.pdb
+H:\Training\Dot NET Various\MEF\MefExmaples\MefExmaples\bin\Debug\Mef.Contracts.dll
+H:\Training\Dot NET Various\MEF\MefExmaples\MefExmaples\bin\Debug\Mef.Contracts.pdb
+H:\Training\Dot NET Various\MEF\MefExmaples\MefExmaples\obj\Debug\MefExmaples.csprojResolveAssemblyReference.cache
+H:\Training\Dot NET Various\MEF\MefExmaples\MefExmaples\obj\Debug\MefExmaples.exe
+H:\Training\Dot NET Various\MEF\MefExmaples\MefExmaples\obj\Debug\MefExmaples.pdb
+H:\Projects\GitHub\MEF\MefExmaples\MefExmaples\bin\Debug\MefExmaples.exe.config
+H:\Projects\GitHub\MEF\MefExmaples\MefExmaples\obj\Debug\MefExmaples.exe
+H:\Projects\GitHub\MEF\MefExmaples\MefExmaples\obj\Debug\MefExmaples.pdb

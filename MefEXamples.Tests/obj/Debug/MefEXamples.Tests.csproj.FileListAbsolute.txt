@@ -1,0 +1,9 @@
+H:\Training\Dot NET Various\MEF\MefExmaples\MefEXamples.Tests\bin\Debug\MefEXamples.Tests.dll
+H:\Training\Dot NET Various\MEF\MefExmaples\MefEXamples.Tests\bin\Debug\MefEXamples.Tests.pdb
+H:\Training\Dot NET Various\MEF\MefExmaples\MefEXamples.Tests\bin\Debug\Mef.Contracts.dll
+H:\Training\Dot NET Various\MEF\MefExmaples\MefEXamples.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+H:\Training\Dot NET Various\MEF\MefExmaples\MefEXamples.Tests\bin\Debug\Mef.Contracts.pdb
+H:\Training\Dot NET Various\MEF\MefExmaples\MefEXamples.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+H:\Training\Dot NET Various\MEF\MefExmaples\MefEXamples.Tests\obj\Debug\MefEXamples.Tests.csprojResolveAssemblyReference.cache
+H:\Training\Dot NET Various\MEF\MefExmaples\MefEXamples.Tests\obj\Debug\MefEXamples.Tests.dll
+H:\Training\Dot NET Various\MEF\MefExmaples\MefEXamples.Tests\obj\Debug\MefEXamples.Tests.pdb

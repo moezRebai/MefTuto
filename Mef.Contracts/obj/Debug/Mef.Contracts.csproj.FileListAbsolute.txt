@@ -1,0 +1,4 @@
+H:\Training\Dot NET Various\MEF\MefExmaples\Mef.Contracts\bin\Debug\Mef.Contracts.dll
+H:\Training\Dot NET Various\MEF\MefExmaples\Mef.Contracts\bin\Debug\Mef.Contracts.pdb
+H:\Training\Dot NET Various\MEF\MefExmaples\Mef.Contracts\obj\Debug\Mef.Contracts.dll
+H:\Training\Dot NET Various\MEF\MefExmaples\Mef.Contracts\obj\Debug\Mef.Contracts.pdb
